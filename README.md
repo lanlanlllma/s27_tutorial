@@ -1,4 +1,4 @@
-# s27_tutorial
+![我使用了echo方法来完成任务](Screenshot from 2025-10-27 22-57-03.png)# s27_tutorial
 这里是杭州电子科技大学PHOENIX实验室视觉组的入门教程仓库。
 
 ---
